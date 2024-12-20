@@ -1,2 +1,2 @@
-# ExpenseTracker
-Track your daily expense in more faster way !!
+# TODO List
+Add place and anything you want to do in your bucket list!!
